@@ -1,1 +1,1 @@
-This i a personal website made by Mezone Poudel.
+This is a personal website made by Mezone Poudel.
